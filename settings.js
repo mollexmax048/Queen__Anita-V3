@@ -4,23 +4,23 @@ const fs = require('fs')
 const chalk = require('chalk')
 //owmner v card
 global.ytname = "YouTube: David Cyril Tech" //ur yt chanel name
-global.socialm = "Telegram: t.me:DeeCee_x" //ur github or insta name
-global.location = "Nigeria, Lagos" //ur location
+global.socialm = "Telegram: @moee048" //ur github or insta name
+global.location = "TANZANIA, DARESSALAAM" //ur location
 
 //new
 global.botname = 'QUEEN_ANITA-V3' //ur bot name
-global.ownernumber = ' ' //ur owner number
-global.ownername = "DAVID CYRIL"  //ur owner name
-global.websitex = "http://www.youtube.com/@DavidCyril_TECH"
-global.wagc = "https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L"
+global.ownernumber = ' "14143066181" ' //ur owner number
+global.ownername = "MOE VIPPEER"  //ur owner name
+global.websitex = ""
+global.wagc = ""
 global.themeemoji = '👸'
-global.wm = "DAVID CYRIL TECH"
+global.wm = "MOE VIPPEER"
 global.botscript = 'https://github.com/DeeCeeXxx/Queen_Anita-V3' //script link
 global.packname = "STICKER BY"
 global.author = "QUEEN_ANITA-V3"
-global.creator = "2347043759577@s.whatsapp.net"
+global.creator = "14143066181@s.whatsapp.net"
 global.xprefix = "."
-global.premium = ["2347043759577"] // Premium User
+global.premium = ["14143066181"] // Premium User
 global.hituet = 0
 
 //bot sett
